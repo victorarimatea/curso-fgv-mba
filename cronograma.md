@@ -56,22 +56,6 @@ Supply chain management e logística em organizações de saúde.
 **Total de disciplinas:** 18
 **Total de dias de aula:** 36
 
----
-
-## Padrão de nomenclatura
-
-```text
-MBA FGV | [número da disciplina].[número da aula] | [nome da disciplina] | [data]
-```
-
-Exemplo:
-
-```text
-MBA FGV | 01.1 | Estratégia Competitiva em Saúde | 20-06-2026
-```
-
----
-
 # Módulo 1 — Pessoas e Estratégia
 
 ## 01 — Estratégia Competitiva em Saúde
