@@ -1,4 +1,4 @@
-# ABERTURA DE CONVERSA — DISCIPLINA DO MBA FGV
+# ABERTURA DE CONVERSA
 
 Esta conversa integra o projeto permanente **MBA FGV em Administração: Gestão de Saúde — Turma MGS-T04**.
 
