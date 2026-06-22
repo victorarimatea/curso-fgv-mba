@@ -13,9 +13,8 @@
 
 ## 01 — Estratégia Competitiva em Saúde
 
-MBA FGV | 01.1 | Estratégia Competitiva em Saúde | 20-06-2026
-
-MBA FGV | 01.2 | Estratégia Competitiva em Saúde | 04-07-2026
+**MBA FGV | 01.1 | Estratégia Competitiva em Saúde | 20-06-2026**
+**MBA FGV | 01.2 | Estratégia Competitiva em Saúde | 04-07-2026**
 
 ## 02 — Liderança e Gestão de Equipes
 
