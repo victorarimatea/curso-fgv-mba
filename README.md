@@ -43,27 +43,16 @@ MBA FGV | [nº da disciplina].[nº da aula] | [Disciplina] | [data]
 ## Módulo 1 — Pessoas e Estratégia
 
 MBA FGV | 01.1 | Estratégia Competitiva em Saúde | 20-06-2026
-
 MBA FGV | 01.2 | Estratégia Competitiva em Saúde | 04-07-2026
-
 MBA FGV | 02.1 | Liderança e Gestão de Equipes | 18-07-2026
-
 MBA FGV | 02.2 | Liderança e Gestão de Equipes | 01-08-2026
-
 MBA FGV | 03.1 | Marketing em Saúde | 15-08-2026
-
 MBA FGV | 03.2 | Marketing em Saúde | 29-08-2026
-
 MBA FGV | 04.1 | Negociação e Administração de Conflitos | 12-09-2026
-
 MBA FGV | 04.2 | Negociação e Administração de Conflitos | 26-09-2026
-
 MBA FGV | 05.1 | Transformação Digital e Inovação em Saúde | 10-10-2026
-
 MBA FGV | 05.2 | Transformação Digital e Inovação em Saúde | 24-10-2026
-
 MBA FGV | 06.1 | Sistemas de Saúde no Brasil | 07-11-2026
-
 MBA FGV | 06.2 | Sistemas de Saúde no Brasil | 21-11-2026
 
 ## Módulo 2 — Legislação e Finanças
