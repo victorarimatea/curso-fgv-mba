@@ -11,8 +11,8 @@ Estrutura: 18 disciplinas de 24 horas, totalizando 432 horas
 Período das aulas: junho de 2026 a março de 2028
 Últimas avaliações previstas: maio de 2028.
 Estrutura curricular
-Módulo 1 — Pessoas e Estratégia
 
+## Módulo 1 — Pessoas e Estratégia
 De junho a novembro de 2026:
 
 Estratégia competitiva em saúde
@@ -21,8 +21,8 @@ Marketing em saúde
 Negociação e administração de conflitos
 Transformação digital e inovação em saúde
 Sistemas de saúde no Brasil
-Módulo 2 — Legislação e Finanças
 
+## Módulo 2 — Legislação e Finanças
 De janeiro a julho de 2027:
 
 Análise das demonstrações contábeis
@@ -31,8 +31,8 @@ Gestão de custos em saúde
 Finanças corporativas em saúde
 Aspectos jurídicos e Compliance em saúde
 Governança corporativa e sustentabilidade em saúde
-Módulo 3 — Desempenho e Eficiência
 
+## Módulo 3 — Desempenho e Eficiência
 De agosto de 2027 a março de 2028:
 
 Empreendedorismo em saúde
