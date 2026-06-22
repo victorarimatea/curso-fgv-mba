@@ -6,7 +6,7 @@ Mantenedor: Victor Leonardo Arimatea Queiroz
 
 Organização que adotaremos
 
-Cada disciplina poderá ter um dossiê próprio:
+Cada disciplina seguirá uma estrutura incluindo:
 
 01 — Planejamento da disciplina
 Ementa, professor, datas, forma de avaliação e materiais prévios.
