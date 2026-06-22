@@ -36,7 +36,16 @@ Perguntas, flashcards, estudos de caso, simulados, erros e pontos de reforço.
 06 — Encerramento da disciplina
 Síntese final, nota, aprendizados, lacunas remanescentes e conexões futuras.
 
-Sugestão de padrão:
+## Sessão de Estudo
+
+Para o desenvolvimento da Metofologia de Estudo serão desenvolvido a rotina de criação de sessão de estudo dentro do ambiente do Claude:
+1. Pasta de Projeto: ESTUDO FGV MBA
+2. Conversa Principal 1 - Bases Metodológicas
+3. Conversa Principal 2 - Consolidação de Relatórios de Estudo
+4. Conversa Principal 3 - Avaliações, Provas e Exercícios
+5. Conversa Secundária - Uma conversa para cada Sessão de Estudo dedicada a cada dia de aula
+
+Sugestão de Nomenclatura Padrão:
 
 MBA FGV | [nº da disciplina].[nº da aula] | [Disciplina] | [data]
 
