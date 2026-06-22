@@ -40,8 +40,6 @@ Sugestão de padrão:
 
 MBA FGV | [nº da disciplina].[nº da aula] | [Disciplina] | [data]
 
-# MBA FGV — Gestão de Saúde
-
 ## Planejamento das Conversas por Aula
 
 **Curso:** MBA em Administração: Gestão de Saúde
