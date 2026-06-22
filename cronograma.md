@@ -13,6 +13,7 @@ Período das aulas: junho de 2026 a março de 2028
 Estrutura curricular
 
 ## Módulo 1 — Pessoas e Estratégia
+
 De junho a novembro de 2026:
 
 Estratégia competitiva em saúde
@@ -23,6 +24,7 @@ Transformação digital e inovação em saúde
 Sistemas de saúde no Brasil
 
 ## Módulo 2 — Legislação e Finanças
+
 De janeiro a julho de 2027:
 
 Análise das demonstrações contábeis
@@ -33,6 +35,7 @@ Aspectos jurídicos e Compliance em saúde
 Governança corporativa e sustentabilidade em saúde
 
 ## Módulo 3 — Desempenho e Eficiência
+
 De agosto de 2027 a março de 2028:
 
 Empreendedorismo em saúde
