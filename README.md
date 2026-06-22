@@ -40,7 +40,8 @@ Sugestão de padrão:
 
 MBA FGV | [nº da disciplina].[nº da aula] | [Disciplina] | [data]
 
-Módulo 1 — Pessoas e Estratégia
+###Módulo 1 — Pessoas e Estratégia
+
 MBA FGV | 01.1 | Estratégia Competitiva em Saúde | 20-06-2026
 MBA FGV | 01.2 | Estratégia Competitiva em Saúde | 04-07-2026
 MBA FGV | 02.1 | Liderança e Gestão de Equipes | 18-07-2026
@@ -53,7 +54,9 @@ MBA FGV | 05.1 | Transformação Digital e Inovação em Saúde | 10-10-2026
 MBA FGV | 05.2 | Transformação Digital e Inovação em Saúde | 24-10-2026
 MBA FGV | 06.1 | Sistemas de Saúde no Brasil | 07-11-2026
 MBA FGV | 06.2 | Sistemas de Saúde no Brasil | 21-11-2026
-Módulo 2 — Legislação e Finanças
+
+###Módulo 2 — Legislação e Finanças
+
 MBA FGV | 07.1 | Análise das Demonstrações Contábeis | 30-01-2027
 MBA FGV | 07.2 | Análise das Demonstrações Contábeis | 13-02-2027
 MBA FGV | 08.1 | Gestão de Projetos em Saúde | 27-02-2027
@@ -66,7 +69,9 @@ MBA FGV | 11.1 | Aspectos Jurídicos e Compliance em Saúde | 05-06-2027
 MBA FGV | 11.2 | Aspectos Jurídicos e Compliance em Saúde | 19-06-2027
 MBA FGV | 12.1 | Governança Corporativa e Sustentabilidade em Saúde | 03-07-2027
 MBA FGV | 12.2 | Governança Corporativa e Sustentabilidade em Saúde | 17-07-2027
-Módulo 3 — Desempenho e Eficiência
+
+###Módulo 3 — Desempenho e Eficiência
+
 MBA FGV | 13.1 | Empreendedorismo em Saúde | 07-08-2027
 MBA FGV | 13.2 | Empreendedorismo em Saúde | 21-08-2027
 MBA FGV | 14.1 | Gestão de Facilities em Organizações de Saúde | 04-09-2027
