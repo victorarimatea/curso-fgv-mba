@@ -1,6 +1,7 @@
 # MBA FGV — Administração e Gestão de Saúde
 
 > Ambiente pessoal de estudo, organização do conhecimento, integração interdisciplinar e acompanhamento da aprendizagem no MBA em Administração: Gestão de Saúde da Fundação Getulio Vargas.
+> Estudante: Victor Leonardo Arimatea Queiroz
 
 ---
 
